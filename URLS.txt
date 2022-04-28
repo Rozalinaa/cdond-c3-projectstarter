@@ -1,0 +1,2 @@
+01 - Github Repo: https://github.com/Rozalinaa/cdond-c3-projectstarter
+02 - S3 Bucket: udapeople-1653e67.s3.amazonaws.com
