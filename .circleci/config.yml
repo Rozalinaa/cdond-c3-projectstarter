@@ -413,7 +413,7 @@ jobs:
             export OldWorkflowID=$(aws cloudformation \
             list-exports --query "Exports[?Name=='WorkflowID'].Value" \
             --no-paginate --output text)
-            echo Old WF is is $OldWorkflowID >> ~/project/OldWorkflowID.txt
+            echo $OldWorkflowID >> ~/project/OldWorkflowID.txt
             cat ~/project/OldWorkflowID.txt
 
             aws cloudformation deploy \
