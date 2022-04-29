@@ -1,5 +1,5 @@
 01 - Github Repo: https://github.com/Rozalinaa/cdond-c3-projectstarter
-02 - S3 Bucket: udapeople-1653e67.s3.amazonaws.com
-03 - Cloudfront: https://d16stiwnku19i4.cloudfront.net
-04 - Ec2: ec2-18-206-171-86.compute-1.amazonaws.com
-05 - Prometheus: ec2-54-237-215-125.compute-1.amazonaws.com
+02 - S3 Bucket: udapeople-86dec6b.s3.amazonaws.com
+03 - Cloudfront: http://d16stiwnku19i4.cloudfront.net
+04 - Ec2: ec2-52-23-237-172.compute-1.amazonaws.com
+05 - Prometheus: ec2-54-226-74-203.compute-1.amazonaws.com
